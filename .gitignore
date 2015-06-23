@@ -1,0 +1,7 @@
+bin/Debug/Categories.xml
+bin/Debug/banking.vshost.exe.manifest
+bin/Debug/banking.pdb
+*.exe
+bin/Categories.xml
+obj/Debug/banking.Form1.resources
+obj/Debug/banking.xml
